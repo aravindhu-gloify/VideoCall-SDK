@@ -1,3 +1,4 @@
+include ':brytecam-sdk-0.9.11'
 include ':videocalllib'
 include ':app'
 rootProject.name = "VideoCallSDK"
