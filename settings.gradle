@@ -1,0 +1,3 @@
+include ':videocalllib'
+include ':app'
+rootProject.name = "VideoCallSDK"
